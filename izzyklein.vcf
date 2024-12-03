@@ -3,18 +3,17 @@ VERSION:3.0
 N:Klein;Izzy;;;
 FN:Izzy Klein
 ORG:IZZY-APP
+TITLE:CTO
 ADR;TYPE=WORK:;;Lepsiusstraße 48;Berlin;;12163;Germany
-TITLE:CTO @ IZZY-APP
 TEL;TYPE=CELL:+972584506188
 TEL;TYPE=WORK:+4368120948661
 EMAIL;TYPE=WORK:izzy@izzy-app.com
+URL;TYPE=Website:https://www.izzy-app.com/
 URL;TYPE=Digital Business Card:https://izzykle.github.io/
-URL:https://www.izzy-app.com/
 URL;TYPE=Signal:https://signal.me/#p/+4368120948661
 URL;TYPE=Telegram:https://t.me/+972584506188
 URL;TYPE=WhatsApp:https://wa.me/+972584506188
 URL;TYPE=Skype:skype:https://join.skype.com/invite/KegOpOtTGLO3?chat
-URL;TYPE=Website:https://www.izzy-app.com/
 URL;TYPE=Calendar:https://calendly.com/izzy-kle/30min
 URL;TYPE=LinkedIn:https://linkedin.com/in/izzy-klein
 URL;TYPE=GitHub:https://github.com/izzykle
